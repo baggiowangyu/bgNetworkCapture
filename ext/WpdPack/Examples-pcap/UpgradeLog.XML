@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MakeaAll">
+</Property><Property Name="解决方案文件" Value="G:\OpenSource_Extend\bgNetworkCapture\ext\WpdPack\Examples-pcap\MakeaAll.sln">
+</Property><Property Name="Date" Value="2018年1月27日">
+</Property><Property Name="Time" Value="22:09">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MakeaAll.sln" Description="文件已成功备份为 G:\OpenSource_Extend\bgNetworkCapture\ext\WpdPack\Examples-pcap\MakeaAll.sln.old">
+</Event><Event ErrorLevel="0" Project="UDPdump" Source="UDPdump\UDPdump.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="UDPdump" Source="UDPdump\UDPdump.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="UDPdump" Source="UDPdump\UDPdump.vcproj" Description="已成功地将项目文件备份为“G:\OpenSource_Extend\bgNetworkCapture\ext\WpdPack\Examples-pcap\UDPdump\UDPdump.vcproj.8.00.old”。">
+</Event><Event ErrorLevel="0" Project="UDPdump" Source="UDPdump\UDPdump.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="UDPdump" Source="UDPdump\UDPdump.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="basic_dump" Source="basic_dump\basic_dump.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="basic_dump" Source="basic_dump\basic_dump.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="basic_dump" Source="basic_dump\basic_dump.vcproj" Description="已成功地将项目文件备份为“G:\OpenSource_Extend\bgNetworkCapture\ext\WpdPack\Examples-pcap\basic_dump\basic_dump.vcproj.8.00.old”。">
+</Event><Event ErrorLevel="0" Project="basic_dump" Source="basic_dump\basic_dump.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="basic_dump" Source="basic_dump\basic_dump.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="basic_dump_ex" Source="basic_dump_ex\basic_dump_ex.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="basic_dump_ex" Source="basic_dump_ex\basic_dump_ex.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="basic_dump_ex" Source="basic_dump_ex\basic_dump_ex.vcproj" Description="已成功地将项目文件备份为“G:\OpenSource_Extend\bgNetworkCapture\ext\WpdPack\Examples-pcap\basic_dump_ex\basic_dump_ex.vcproj.8.00.old”。">
+</Event><Event ErrorLevel="0" Project="basic_dump_ex" Source="basic_dump_ex\basic_dump_ex.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="basic_dump_ex" Source="basic_dump_ex\basic_dump_ex.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="iflist" Source="iflist\iflist.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="iflist" Source="iflist\iflist.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="iflist" Source="iflist\iflist.vcproj" Description="已成功地将项目文件备份为“G:\OpenSource_Extend\bgNetworkCapture\ext\WpdPack\Examples-pcap\iflist\iflist.vcproj.8.00.old”。">
+</Event><Event ErrorLevel="0" Project="iflist" Source="iflist\iflist.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="iflist" Source="iflist\iflist.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pcap_filter" Source="pcap_filter\pcap_filter.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="pcap_filter" Source="pcap_filter\pcap_filter.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pcap_filter" Source="pcap_filter\pcap_filter.vcproj" Description="已成功地将项目文件备份为“G:\OpenSource_Extend\bgNetworkCapture\ext\WpdPack\Examples-pcap\pcap_filter\pcap_filter.vcproj.8.00.old”。">
+</Event><Event ErrorLevel="0" Project="pcap_filter" Source="pcap_filter\pcap_filter.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pcap_filter" Source="pcap_filter\pcap_filter.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pktdump_ex" Source="pktdump_ex\pktdump_ex.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="pktdump_ex" Source="pktdump_ex\pktdump_ex.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pktdump_ex" Source="pktdump_ex\pktdump_ex.vcproj" Description="已成功地将项目文件备份为“G:\OpenSource_Extend\bgNetworkCapture\ext\WpdPack\Examples-pcap\pktdump_ex\pktdump_ex.vcproj.8.00.old”。">
+</Event><Event ErrorLevel="0" Project="pktdump_ex" Source="pktdump_ex\pktdump_ex.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pktdump_ex" Source="pktdump_ex\pktdump_ex.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="readfile" Source="readfile\readfile.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="readfile" Source="readfile\readfile.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="readfile" Source="readfile\readfile.vcproj" Description="已成功地将项目文件备份为“G:\OpenSource_Extend\bgNetworkCapture\ext\WpdPack\Examples-pcap\readfile\readfile.vcproj.8.00.old”。">
+</Event><Event ErrorLevel="0" Project="readfile" Source="readfile\readfile.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="readfile" Source="readfile\readfile.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="readfile_ex" Source="readfile_ex\readfile_ex.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="readfile_ex" Source="readfile_ex\readfile_ex.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="readfile_ex" Source="readfile_ex\readfile_ex.vcproj" Description="已成功地将项目文件备份为“G:\OpenSource_Extend\bgNetworkCapture\ext\WpdPack\Examples-pcap\readfile_ex\readfile_ex.vcproj.8.00.old”。">
+</Event><Event ErrorLevel="0" Project="readfile_ex" Source="readfile_ex\readfile_ex.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="readfile_ex" Source="readfile_ex\readfile_ex.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="savedump" Source="savedump\savedump.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="savedump" Source="savedump\savedump.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="savedump" Source="savedump\savedump.vcproj" Description="已成功地将项目文件备份为“G:\OpenSource_Extend\bgNetworkCapture\ext\WpdPack\Examples-pcap\savedump\savedump.vcproj.8.00.old”。">
+</Event><Event ErrorLevel="0" Project="savedump" Source="savedump\savedump.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="savedump" Source="savedump\savedump.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="sendpack" Source="sendpack\sendpack.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="sendpack" Source="sendpack\sendpack.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="sendpack" Source="sendpack\sendpack.vcproj" Description="已成功地将项目文件备份为“G:\OpenSource_Extend\bgNetworkCapture\ext\WpdPack\Examples-pcap\sendpack\sendpack.vcproj.8.00.old”。">
+</Event><Event ErrorLevel="0" Project="sendpack" Source="sendpack\sendpack.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="sendpack" Source="sendpack\sendpack.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MakeaAll.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="MakeaAll.sln" Description="Converted">
+</Event></UpgradeLog>
